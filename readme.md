@@ -1,4 +1,4 @@
-# PETROBOTS Monitoring System
+# PETROBOTS Dustbin Monitoring System
 
 The **PETROBOTS Monitoring System** is a web-based application designed to track and display real-time progress and monitoring data. The system includes an interactive user interface with features such as progress tracking and user-friendly dashboards.
 
