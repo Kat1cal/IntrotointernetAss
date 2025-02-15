@@ -55,8 +55,8 @@ PETROBOTS-main/
 ## Usage
 
 - Open the home page to know about the rubbish accumulation.
-- Navigate to different section for monitoring progress.
-- A
+- Navigate to different section for monitoring dustbin progress.
+- 
 s.
 
 ## Contributing
