@@ -6,9 +6,9 @@ The **PETROBOTS Dustbin Monitoring System** is a web-based application designed 
 
 ### Key Functionalities
 
-- **Real time dustbin monitors**: Tracks real-time dustbin progress updates.
+- **Real time dustbin monitoring**: Tracks and updates dustbin status dynamically.
 - **Progress Bar**: Displays the capacity progress of dustbin.
-- **
+- **Dashboard:** Displays dustbin status and analytics.
 
 ## Project Structure
 
