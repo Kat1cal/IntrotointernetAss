@@ -13,21 +13,26 @@ The **PETROBOTS Dustbin Monitoring System** is a web-based application designed 
 ## Project Structure
 
 ```
-PETROBOTS-main/
-├── client/
-│   ├── index.html  # Main landing page
-│   ├── css/        # Stylesheets
-│   ├── js/         # JavaScript files
-│
-├── hanqi/
-│   ├── home.html  # User dashboard
-│   ├── home.css   # Styles for home page
-│   ├── progressbar.html  # Progress tracking interface
-│   ├── progressbar.css   # Styles for progress bar
-│   ├── progressbar.js    # JavaScript for progress tracking
-│
-├── .vscode/  # Configuration for VS Code
-├── .gitattributes  # Git settings
+PETROBOTS/
+├── PETROBOTS/
+│   ├── README.md              # Project documentation
+│   ├── app.py                 # Main application script (Flask-based)
+│   ├── config.py              # Configuration settings
+│   ├── static/                # Static files (CSS, JS, images)
+│   │   ├── css/
+│   │   ├── js/
+│   │   ├── images/
+│   ├── templates/             # HTML templates
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── dashboard.html
+│   ├── models.py              # Database models
+│   ├── requirements.txt       # Required dependencies
+│   ├── database/
+│   │   ├── petro_db.sqlite3   # SQLite database
+│   ├── utils/                 # Utility scripts
+│   ├── tests/                 # Testing scripts
+│   ├── .gitignore             # Git ignore file
 ```
 
 ## Installation and Setup
@@ -59,6 +64,6 @@ Contributions are welcome! Fork the repository, make changes, and submit a pull 
 
 ## License
 
-This project is licensed under [MIT License].
+This project is licensed under [].
 
 
