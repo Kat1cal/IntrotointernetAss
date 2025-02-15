@@ -1,13 +1,13 @@
 # PETROBOTS Dustbin Monitoring System
 
-The **PETROBOTS Monitoring System** is a web-based application designed to track and display real-time progress and monitoring data. The system includes an interactive user interface with features such as progress tracking and user-friendly dashboards.
+The **PETROBOTS Dustbin Monitoring System** is a web-based application designed to track and display real-time progress and monitoring data. This system includes an interactive user interface with features such as dustbin progress tracking and user-friendly dashboards.
 
 ## Features
 
 ### User Features
 
-- **Homepage Interface**: Provides an overview of the system.
-- **Progress Bar System**: Displays real-time progress updates.
+- **Real time dustbin monitors**: Displays real-time progress updates.
+- **Progress Bar**: Displays real-time progress updates.
 - **Responsive Design**: Ensures compatibility across various devices.
 
 ### Admin Features
@@ -54,9 +54,10 @@ PETROBOTS-main/
 
 ## Usage
 
-- Open the homepage to view real-time data.
-- Navigate to different sections for monitoring progress.
-- Admins can log in to manage system configurations.
+- Open the home page to know about the rubbish accumulation.
+- Navigate to different section for monitoring progress.
+- A
+s.
 
 ## Contributing
 
@@ -64,6 +65,6 @@ Contributions are welcome! Fork the repository, make changes, and submit a pull 
 
 ## License
 
-This project is licensed under [Your Preferred License].
+This project is licensed under [MIT License].
 
 
